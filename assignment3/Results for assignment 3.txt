@@ -1,0 +1,7 @@
+              Longitude   Latitude  Actual Location                       My result
+
+First point    77.0725    28.4722   Iffco Chowk Metro Station(Gurgaon)    Given Longitude and Latitude falls in : Gurgaon
+
+Second point   77.1996    28.6144   Rashtrapati Bhavan(New Delhi)         Given Longitude and Latitude falls in : Central Delhi
+
+Third point    77.1614    28.4993   Sultanpur Metro Station(New Delhi)    Given Longitude and Latitude falls in : South Delhi
