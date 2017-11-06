@@ -27,3 +27,6 @@ TO BE THE SAME (dont assume that they will exactly be the same.)" because csv fi
 3. I was not able to write testcases (using test frameworks) for any of the assignments as I have never used them before, I tried to understand them and was able to 
 for trivial programs, but not in the case of flask applications. (I have shown some results for second and third assignments in the .txt file that can be found in 
 respective folders, all the results are reproducible) 
+
+
+Do install psycopg2 and shapely python packages as I have used psycopg2 for postgresql and shapely for assignment 3. Other packages used are very common like flask, pandas, math etc. 
